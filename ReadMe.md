@@ -37,7 +37,10 @@
 
 ## 5. [ES Next](./contenus/chapters/5_esnext/5-1_index.md)
 
-## 6. [Modules](./contenus/chapters/6_modules/6-1_index.md)
+## 6. Factoriser son code
+
+- #### [Importer des scripts](./contenus/chapters/6_modules/6-1_legacy.md)
+- #### [Modules ES](./contenus/chapters/6_modules/6-2_esm.md)
 
 ## 7. Outillage
 

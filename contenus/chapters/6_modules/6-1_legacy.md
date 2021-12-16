@@ -118,4 +118,4 @@ module.exports = function (a) {
 
 Problème: `require` synchrone
 
-#### _La suite: [Modules ESM](../7_tooling/6-2_esm.md)_
+#### _La suite: [Modules ESM](../6_modules/6-2_esm.md)_
