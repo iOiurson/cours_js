@@ -1,4 +1,4 @@
-## Aller plus loin
+## Introduction au bundling
 
 Le développement web moderne s'appuie énormément sur le concept de "bundling",
 dont le principe est le suivant:
